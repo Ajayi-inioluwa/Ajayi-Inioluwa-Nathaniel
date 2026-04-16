@@ -1,0 +1,4 @@
+.header { background: #1a1a2e; color: white; padding: 20px 40px;
+    display: flex; justify-content: space-between; align-items: center; }
+   .header nav a { color: #e94560; margin-left: 20px;
+    text-decoration: none; font-weight: bold; }
